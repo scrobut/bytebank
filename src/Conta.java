@@ -3,4 +3,8 @@ public class Conta {
     double saldo;
     int numero;
     String titular;
+
+    public void transfere(double valor){
+        saldo = saldo + valor;
+    }
 }
