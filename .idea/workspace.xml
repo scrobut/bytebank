@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3578f988-ca0e-43b5-834b-6771d22238cf" name="Changes" comment="validateTransfer">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Raio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaCliente.java" afterDir="false" />
+    <list default="true" id="3578f988-ca0e-43b5-834b-6771d22238cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContaPoupanca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CriaConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CriaConta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidaTrasnfere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidaTrasnfere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RunManager" selected="Application.ValidaTrasnfere">
@@ -109,7 +104,10 @@
       <workItem from="1649770020232" duration="266000" />
       <workItem from="1649770324758" duration="10516000" />
       <workItem from="1649937458025" duration="8423000" />
-      <workItem from="1650333172893" duration="11467000" />
+      <workItem from="1650333172893" duration="12088000" />
+      <workItem from="1650580634148" duration="804000" />
+      <workItem from="1650740794365" duration="129000" />
+      <workItem from="1650740984128" duration="2609000" />
     </task>
     <task id="LOCAL-00001" summary="criaconta">
       <created>1649773347973</created>
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649788200021</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="validateTransfer">
+      <created>1650474405356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650474405356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
